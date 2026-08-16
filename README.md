@@ -20,7 +20,7 @@
 
 ## 🌐 My Portfolio
 
-### 👉 [**Check out all my projects here**](https://github.com/Lyxian0906/PortFolio) 👈
+### 👉 [**Check out all my projects here**](https://lyxian0906.github.io/PortFolio/) 👈
 
 <a href="https://github.com/Lyxian0906/PortFolio">
 <img src="https://img.shields.io/badge/OPEN_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F2027" height="45"/>
