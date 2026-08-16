@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hi%20I'm%20Lyx%20👋&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Game%20Dev%20%7C%20Unity%20%2F%20C%23%20%7C%20Crafting%20Playable%20Worlds&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hi%20I'm%20Lyx%20%F0%9F%91%8B&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Game%20Dev%20%7C%20Unity%20%2F%20C%23%20%7C%20Web%20Dev&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Making+2D+games+in+Unity;Shipping+FloopyChicken+%F0%9F%90%A5;Building+a+Library+Manager+%F0%9F%93%96;Prototyping+The+Fading+Star+%E2%9C%A8;Welcome+to+my+profile!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Making+2D+games+in+Unity;Shipping+FloopyChicken+%F0%9F%90%A5;Building+a+Library+Manager+%F0%9F%93%96;Prototyping+The+Fading+Star+%E2%9C%A8;Also+dabbling+in+Web+Dev+%F0%9F%8C%90;Welcome+to+my+profile!" alt="Typing SVG"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black&labelColor=222" alt="Unity"/>
 <img src="https://img.shields.io/badge/C%23-2563EB?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/Web_Development-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Development"/>
 <img src="https://komarev.com/ghpvc/?username=Lyxian0906&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Lyxian0906?style=for-the-badge&color=38BDF8&labelColor=1a1a2e"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/rainbow-line.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Lyxian0906/Lyxian0906/main/assets/leaves-falling.svg" width="100%" height="80"/>
 
 <div align="center">
 
@@ -25,12 +26,13 @@
 <img src="https://img.shields.io/badge/OPEN_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F2027" height="45"/>
 </a>
 
-<sub>Everything I build lives here first — start your tour of my work at the link above.</sub>
+
+<sub>Everything I build lives here first — start your tour of my work at the link above. (That was made with a lot of coffee ☕)</sub>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/rainbow-line.gif" width="100%"/>
-
+<img src="https://cataas.com/cat/says/hi%20im%20lyx?size=30&color=white" width="200" style="border-radius:12px" alt="cute cat waving hi"/>
 ## 🎮 Featured Projects
 
 <div align="center">
@@ -117,7 +119,7 @@ A new game concept currently taking shape in prototyping.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lyxian0906&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lyxian0906&theme=tokyonight&column=6&row=1&margin-w=15&margin-h=15" width="95%"/>
 
 </div>
 
@@ -128,12 +130,18 @@ A new game concept currently taking shape in prototyping.
 <div align="center">
 
 <a href="https://github.com/Lyxian0906/PortFolio"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.instagram.com/albiilyx_/?"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/albiilyx_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Lyxian0906/Lyxian0906/main/assets/leaves-falling.svg" width="100%" height="80"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
 
 <div align="center">
-<i>⭐️ Currently shipping FloopyChicken, building my Library Manager, and prototyping The Fading Star</i>
+
+<img src="https://cataas.com/cat/cute?width=150" width="90" style="border-radius:50%" alt="cute cat"/>
+
+<i>made by Lyx with lots of ☕ coffee and not enough 😴 sleep</i>
+
 </div>
