@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Lyxian0906/Lyxian0906/main/asses/leaves-falling.svg" width="100%" height="80"/>
+<img src="main/asses/leaves-falling.svg" width="100%" height="80"/>
 
 <div align="center">
 
@@ -140,7 +140,7 @@ A new game concept currently taking shape in prototyping.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Lyxian0906/Lyxian0906/main/asset/leaves-falling.svg" width="100%" height="80"/>
+<img src="main/asses/leaves-falling.svg" width="100%" height="80"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
 
