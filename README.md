@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hi%20I'm%20Lyx%20%F0%9F%91%8B&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Game%20Dev%20%7C%20Unity%20%2F%20C%23%20%7C%20Web%20Dev&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hi%20I'm%20Lyx%20%F0%9F%90%B0&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Game%20Dev%20%7C%20Unity%20%2F%20C%23%20%7C%20Web%20Dev&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Making+2D+games+in+Unity;Shipping+FloopyChicken+%F0%9F%90%A5;Building+a+Library+Manager+%F0%9F%93%96;Prototyping+The+Fading+Star+%E2%9C%A8;Also+dabbling+in+Web+Dev+%F0%9F%8C%90;Welcome+to+my+profile!" alt="Typing SVG"/>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Lyxian0906/Lyxian0906/main/assets/leaves-falling.svg" width="100%" height="80"/>
+<img src="https://raw.githubusercontent.com/Lyxian0906/Lyxian0906/main/asses/leaves-falling.svg" width="100%" height="80"/>
 
 <div align="center">
 
@@ -26,13 +26,16 @@
 <img src="https://img.shields.io/badge/OPEN_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F2027" height="45"/>
 </a>
 
-
 <sub>Everything I build lives here first — start your tour of my work at the link above. (That was made with a lot of coffee ☕)</sub>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/rainbow-line.gif" width="100%"/>
+
+<div align="center">
 <img src="https://cataas.com/cat/says/hi%20im%20lyx?size=30&color=white" width="200" style="border-radius:12px" alt="cute cat waving hi"/>
+</div>
+
 ## 🎮 Featured Projects
 
 <div align="center">
@@ -115,11 +118,14 @@ A new game concept currently taking shape in prototyping.
 
 </div>
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lyxian0906&theme=tokyonight&column=6&row=1&margin-w=15&margin-h=15" width="95%"/>
+<img src="https://img.shields.io/badge/🎮_Game_Developer-2563EB?style=for-the-badge&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/🌐_Web_Developer-38BDF8?style=for-the-badge&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/☕_Coffee_Powered-60A5FA?style=for-the-badge&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/🚀_Always_Flying-2C5364?style=for-the-badge&labelColor=0F2027"/>
 
 </div>
 
@@ -134,7 +140,7 @@ A new game concept currently taking shape in prototyping.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Lyxian0906/Lyxian0906/main/assets/leaves-falling.svg" width="100%" height="80"/>
+<img src="https://raw.githubusercontent.com/Lyxian0906/Lyxian0906/main/asset/leaves-falling.svg" width="100%" height="80"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
 
