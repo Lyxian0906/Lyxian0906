@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hi%20I'm%20Lyx%20%F0%9F%90%B0&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Game%20Dev%20%7C%20Unity%20%2F%20C%23%20%7C%20Web%20Dev&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hi%20I'm%20Lyx%20%F0%9F%90%B0&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Game%20Dev%20%7C%20Unity%20%2F%20C%23%20%7C%20Web%20Dev%20%7C%20AI&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Making+2D+games+in+Unity;Shipping+FloopyChicken+%F0%9F%90%A5;Building+a+Library+Manager+%F0%9F%93%96;Prototyping+The+Fading+Star+%E2%9C%A8;Also+dabbling+in+Web+Dev+%F0%9F%8C%90;Welcome+to+my+profile!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Making+2D+games+in+Unity;Shipping+FloopyChicken+%F0%9F%90%A5;Building+a+Library+Manager+%F0%9F%93%96;Prototyping+The+Fading+Star+%E2%9C%A8;Training+Lyra+AI+to+talk+back+%F0%9F%A4%96;Also+dabbling+in+Web+Dev+%F0%9F%8C%90;Welcome+to+my+profile!" alt="Typing SVG"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black&labelColor=222" alt="Unity"/>
 <img src="https://img.shields.io/badge/C%23-2563EB?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/Web_Development-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Development"/>
+<img src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Web_Development-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Development"/>
 <img src="https://komarev.com/ghpvc/?username=Lyxian0906&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Lyxian0906?style=for-the-badge&color=38BDF8&labelColor=1a1a2e"/>
 
@@ -42,7 +43,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 ### 🐥 FloopyChicken
 A Flappy Bird-style 2D game built in Unity — flap, dodge, and chase the high score.
@@ -52,7 +53,17 @@ A Flappy Bird-style 2D game built in Unity — flap, dodge, and chase the high s
 <img src="https://img.shields.io/badge/engine-Unity-black?style=flat-square&logo=unity"/>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
+
+### 🤖 Lyra AI
+A personal generative AI chat assistant — Flask backend, Gemini API brain, persistent memory, and custom function-calling tools.
+
+<img src="https://img.shields.io/badge/status-in--dev-38BDF8?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/stack-Flask_%2B_Gemini-black?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+<td width="25%" valign="top" align="center">
 
 ### 📖 Library Manager
 Book recommendation website.
@@ -60,7 +71,7 @@ Book recommendation website.
 <img src="https://img.shields.io/badge/status-in--dev-38BDF8?style=flat-square"/>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 ### ⭐ The Fading Star
 A new game concept currently taking shape in prototyping.
@@ -77,12 +88,40 @@ A new game concept currently taking shape in prototyping.
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/rainbow-line.gif" width="100%"/>
 
+## 🤖 Spotlight: Lyra AI
+
+<div align="center">
+
+My own generative AI chat assistant, built from scratch instead of just calling an API and calling it a day.
+
+<img src="https://img.shields.io/badge/Backend-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Brain-Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Memory-Persistent-38BDF8?style=flat-square"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">🧠<br/><b>Persistent Memory</b><br/><sub>Conversations saved and recalled</sub></td>
+<td align="center" width="33%">🎭<br/><b>Custom Persona</b><br/><sub>Gitignored persona.py system prompt</sub></td>
+<td align="center" width="33%">🛠️<br/><b>Function Calling</b><br/><sub>Custom tools via tools.py</sub></td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/rainbow-line.gif" width="100%"/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -124,6 +163,7 @@ A new game concept currently taking shape in prototyping.
 
 <img src="https://img.shields.io/badge/🎮_Game_Developer-2563EB?style=for-the-badge&labelColor=0F2027"/>
 <img src="https://img.shields.io/badge/🌐_Web_Developer-38BDF8?style=for-the-badge&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/🤖_AI_Tinkerer-0EA5E9?style=for-the-badge&labelColor=0F2027"/>
 <img src="https://img.shields.io/badge/☕_Coffee_Powered-60A5FA?style=for-the-badge&labelColor=0F2027"/>
 <img src="https://img.shields.io/badge/🚀_Always_Flying-2C5364?style=for-the-badge&labelColor=0F2027"/>
 
@@ -142,6 +182,15 @@ A new game concept currently taking shape in prototyping.
 
 <img src="main/asses/leaves-falling.svg" width="100%" height="80"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+
+<div align="center">
+
+<img src="https://cataas.com/cat/cute?width=150" width="90" style="border-radius:50%" alt="cute cat"/>
+
+<i>made by Lyx with lots of ☕ coffee and not enough 😴 sleep</i>
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
 
 <div align="center">
