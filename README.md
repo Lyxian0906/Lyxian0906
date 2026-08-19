@@ -55,7 +55,7 @@ A Flappy Bird-style 2D game built in Unity — flap, dodge, and chase the high s
 </td>
 <td width="25%" valign="top" align="center">
 
-### 🤖 Lyra AI
+### 🤖 Lyx AI
 A personal generative AI chat assistant — Flask backend, Gemini API brain, persistent memory, and custom function-calling tools.
 
 <img src="https://img.shields.io/badge/status-in--dev-38BDF8?style=flat-square"/>
@@ -193,10 +193,3 @@ My own generative AI chat assistant, built from scratch instead of just calling 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
 
-<div align="center">
-
-<img src="https://cataas.com/cat/cute?width=150" width="90" style="border-radius:50%" alt="cute cat"/>
-
-<i>made by Lyx with lots of ☕ coffee and not enough 😴 sleep</i>
-
-</div>
