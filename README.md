@@ -165,7 +165,7 @@ My own generative AI chat assistant, built from scratch instead of just calling 
 <img src="https://img.shields.io/badge/🌐_Web_Developer-38BDF8?style=for-the-badge&labelColor=0F2027"/>
 <img src="https://img.shields.io/badge/🤖_AI_Tinkerer-0EA5E9?style=for-the-badge&labelColor=0F2027"/>
 <img src="https://img.shields.io/badge/☕_Coffee_Powered-60A5FA?style=for-the-badge&labelColor=0F2027"/>
-<img src="https://img.shields.io/badge/🚀_Always_Flying-2C5364?style=for-the-badge&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/🚀_Web_Designer-2C5364?style=for-the-badge&labelColor=0F2027"/>
 
 </div>
 
