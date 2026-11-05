@@ -65,8 +65,8 @@ A personal generative AI chat assistant — Flask backend, Gemini API brain, per
 </td>
 <td width="25%" valign="top" align="center">
 
-### 📖 Library Manager
-Book recommendation website.
+### 📖 Online Shop
+Online shop (still not online)
 
 <img src="https://img.shields.io/badge/status-in--dev-38BDF8?style=flat-square"/>
 
