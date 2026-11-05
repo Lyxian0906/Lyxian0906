@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/OPEN_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F2027" height="45"/>
 </a>
 
-<sub>Everything I build lives here first — start your tour of my work at the link above. (That was made with a lot of coffee ☕)</sub>
+<sub>Everything I build lives here first start. (That was made with a lot of coffee ☕)</sub>
 
 </div>
 
@@ -36,6 +36,36 @@
 <div align="center">
 <img src="https://cataas.com/cat/says/hi%20im%20lyx?size=30&color=white" width="200" style="border-radius:12px" alt="cute cat waving hi"/>
 </div>
+
+## 👋 About Me
+Hello! I'm Lyx :) I'm a passionate multi platform developer, I also love videogames :D
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔭 Currently working on**
+- 🐥 Finishing **FloopyChicken**
+- 📖 Building **Online Shop**
+- 🤖 Developing my own AI with help of an API **Lyra AI** 
+- ⭐ Prototyping a 2d and 3d game **The Fading Star**
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Currently learning**
+- ⚛️ React
+- ☕ Java (Swing, Spring Boot)
+- 🎮 2D mechanics in Unity and 3D games development
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/rainbow-line.gif" width="100%"/>
 
 ## 🎮 Featured Projects
 
@@ -46,7 +76,7 @@
 <td width="25%" valign="top" align="center">
 
 ### 🐥 FloopyChicken
-A Flappy Bird-style 2D game built in Unity — flap, dodge, and chase the high score.
+A Flappy Bird-style 2D game built in Unity — flap, dodge, and chase the high score. Just a small game I created as a joke
 
 <img src="https://img.shields.io/badge/status-in--dev-38BDF8?style=flat-square"/>
 <br/>
@@ -56,7 +86,8 @@ A Flappy Bird-style 2D game built in Unity — flap, dodge, and chase the high s
 <td width="25%" valign="top" align="center">
 
 ### 🤖 Lyx AI
-A personal generative AI chat assistant — Flask backend, Gemini API brain, persistent memory, and custom function-calling tools.
+A personal generative AI chat assistant with a Flask backend, Gemini API brain, persistent memory, and custom function-calling tools.
+Still not fully finished
 
 <img src="https://img.shields.io/badge/status-in--dev-38BDF8?style=flat-square"/>
 <br/>
@@ -65,10 +96,12 @@ A personal generative AI chat assistant — Flask backend, Gemini API brain, per
 </td>
 <td width="25%" valign="top" align="center">
 
-### 📖 Online Shop
-Online shop (still not online)
+### 📖 Library Manager
+A library management system with a book recommendation website using Java + Spring Boot.
 
 <img src="https://img.shields.io/badge/status-in--dev-38BDF8?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/stack-Java_%2B_Spring_Boot-black?style=flat-square&logo=springboot&logoColor=6DB33F"/>
 
 </td>
 <td width="25%" valign="top" align="center">
@@ -82,6 +115,16 @@ A new game concept currently taking shape in prototyping.
 
 </td>
 </tr>
+<tr>
+<td colspan="4" align="center">
+
+### 🛒 Online Shop
+Online shop (still not online)
+
+<img src="https://img.shields.io/badge/status-in--dev-38BDF8?style=flat-square"/>
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -92,7 +135,7 @@ A new game concept currently taking shape in prototyping.
 
 <div align="center">
 
-My own generative AI chat assistant, built from scratch instead of just calling an API and calling it a day.
+My own generative AI chat assistant using Gemini API.
 
 <img src="https://img.shields.io/badge/Backend-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Brain-Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
@@ -103,8 +146,7 @@ My own generative AI chat assistant, built from scratch instead of just calling 
 
 <table>
 <tr>
-<td align="center" width="33%">🧠<br/><b>Persistent Memory</b><br/><sub>Conversations saved and recalled</sub></td>
-<td align="center" width="33%">🎭<br/><b>Custom Persona</b><br/><sub>Gitignored persona.py system prompt</sub></td>
+<td align="center" width="33%">🧠<br/><b>Persistent Memory</b><br/><sub>Conversations saved and recalled thinking about using a database</sub></td>
 <td align="center" width="33%">🛠️<br/><b>Function Calling</b><br/><sub>Custom tools via tools.py</sub></td>
 </tr>
 </table>
@@ -121,12 +163,16 @@ My own generative AI chat assistant, built from scratch instead of just calling 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </div>
 
@@ -163,13 +209,39 @@ My own generative AI chat assistant, built from scratch instead of just calling 
 
 <img src="https://img.shields.io/badge/🎮_Game_Developer-2563EB?style=for-the-badge&labelColor=0F2027"/>
 <img src="https://img.shields.io/badge/🌐_Web_Developer-38BDF8?style=for-the-badge&labelColor=0F2027"/>
-<img src="https://img.shields.io/badge/🤖_AI_Tinkerer-0EA5E9?style=for-the-badge&labelColor=0F2027"/>
 <img src="https://img.shields.io/badge/☕_Coffee_Powered-60A5FA?style=for-the-badge&labelColor=0F2027"/>
 <img src="https://img.shields.io/badge/🚀_Web_Designer-2C5364?style=for-the-badge&labelColor=0F2027"/>
+
+<br/><br/>
+
+### 🏅 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lyxian0906&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="95%"/>
+
+<br/>
+
+### 🎖️ Milestones
+
+<table>
+<tr>
+<td align="center" width="25%">🐥<br/><b>First Game</b><br/><sub>FloopyChicken is in the works</sub></td>
+<td align="center" width="25%">📚<br/><b>Full-Stack Learner</b><br/><sub>Unity, Python, Java & React</sub></td>
+</tr>
+</table>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/rainbow-line.gif" width="100%"/>
+
+## 💬 Fun Facts
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/☕_Runs_on-Coffee-60A5FA?style=flat-square&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/😴_Sleep-Optional-2C5364?style=flat-square&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/🐰_Mascot-Bunny-38BDF8?style=flat-square&labelColor=0F2027"/>
+
+</div>
 
 ## 🔗 Connect
 
@@ -178,11 +250,13 @@ My own generative AI chat assistant, built from scratch instead of just calling 
 <a href="https://github.com/Lyxian0906/PortFolio"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.instagram.com/albiilyx_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
+<br/><br/>
+
+<sub>⭐ If you like something you see here, drop a star — it makes my day :)!</sub>
+
 </div>
 
 <img src="main/asses/leaves-falling.svg" width="100%" height="80"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
@@ -191,5 +265,5 @@ My own generative AI chat assistant, built from scratch instead of just calling 
 <i>made by Lyx with lots of ☕ coffee and not enough 😴 sleep</i>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
